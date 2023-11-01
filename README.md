@@ -1,6 +1,6 @@
-# maShop - mobile app
+# Bio time clock - Nodejs app
 
-A React Native application provide products promotions service ( nearest deals ✨) from best of the best
+A Nodejs express Application with mongoDB for Bio timing clock management 
 
 <!-- Table of contents -->
 <details open="open" >
@@ -66,7 +66,7 @@ We have 2 .env files
 Clone the project
 
 ```bash
-  git clone https://
+  git clone https://github.com/ibrahimkhennouf/Bio-time-clock
 ```
 
 Go to the project directory
